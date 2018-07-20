@@ -1,6 +1,6 @@
 #               In The Name Of Allah
 #                   1396/06/26
-#this Program Writed By : Ghasem Ramezani Manesh .@ASFisher
+#this Program Writed By : Ghasem Ramezani Manesh .@MG_Ramezani
 #From Iran,Esfahan,Math House
 #My Teacher's In Python :
 #                  ~Mr.Bagheri
